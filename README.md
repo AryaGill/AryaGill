@@ -1,7 +1,7 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arya Gill</h1>
 <h3 align="center">A passionate young developer/learner from California.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bqrUA.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on [The Odin Project](https://github.com/AryaGill/TheOdinProject.git)
 
