@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning [Full Stack Web Development](https://github.com/AryaGill/TheOdinProject) alongside school work.
 
+- 👨‍💻 Check out one of my projects [Caesar Cipher](https://github.com/AryaGill/Caesar-cipher). 
+
 - 💬 Ask me about **Python, Linux, Cyber Security, Hacking**.
 
 - 📫 How to reach me **aryagill43@icloud.com**
