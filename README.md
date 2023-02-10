@@ -3,11 +3,11 @@
 <h3 align="center">A passionate young developer/learner from California.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on [LeetCode](https://github.com/AryaGill/LeetCode)
+- 🔭 I’m currently working on **CyberSecurity and CTF's**.
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning [Full Stack Web Development](https://github.com/AryaGill/TheOdinProject) alongside school work.
 
-- 💬 Ask me about **Python, Linux, Cyber Security, Hacking**
+- 💬 Ask me about **Python, Linux, Cyber Security, Hacking**.
 
 - 📫 How to reach me **aryagill43@icloud.com**
 
