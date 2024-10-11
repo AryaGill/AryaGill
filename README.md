@@ -3,7 +3,7 @@
 <h3 align="center">A passionate young developer/learner from California.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Machine Learning**.
+- 🔭 I’m currently working on **Self-Driving Machine Learning Model**.
 
 - 🌱 I’m currently learning Machine Learning alongside school work.
 
